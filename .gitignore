@@ -1,0 +1,29 @@
+# Build temp/test files
+build/t_*.js
+build/_*.js
+build/_*.py
+build/*.log
+build/*.hyb
+build/cdp*.js
+build/reload.js
+build/shot*.js
+build/diag.js
+build/x.js
+build/imp2.js
+build/check_ext.js
+build/extract_worldbook.py
+build/_backup_*
+build/cover/
+build/*.png
+build/*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# SillyTavern local
+node_modules/
